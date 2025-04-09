@@ -738,6 +738,7 @@ main > header > .search > input {
 
   .container .right-section .music-player {
     height: 100%;
+    width : 100% ; 
   }
   .container .right-section .music-player .top-section .song-info img {
     height: 370px;
